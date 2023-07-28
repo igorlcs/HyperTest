@@ -1,0 +1,26 @@
+{
+  "name": "HyperTest",
+  "version": "1.0.0",
+  "description": "O teste de API foi realizado utilizando as bibliotecas Jest e Axios. Ambos funcionam perfeitamente em sistemas operacionais Windows e Linux.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igorlcs/HyperTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igorlcs/HyperTest/issues"
+  },
+  "homepage": "https://github.com/igorlcs/HyperTest#readme",
+  "devDependencies": {
+    "jest": "^29.6.2"
+  },
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
